@@ -1,0 +1,9 @@
+1.0.1
+  * Updated dependencies and moved mocha and chai to dev dependencies.
+
+  -- Victor <victor73@github.com>  Tue, 09 Nov 2021 11:50:00 -0400
+
+1.0.0
+  * Initial release.
+
+  -- Victor <victor73@github.com>  Mon, 14 Oct 2019 12:00:00 -0400

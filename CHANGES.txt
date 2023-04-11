@@ -1,3 +1,8 @@
+1.0.2
+  * Updated library dependencies.
+
+  -- Victor <victor73@github.com>  Tue, 11 Apr 2023 11:52:00 -0400
+
 1.0.1
   * Updated dependencies and moved mocha and chai to dev dependencies.
 

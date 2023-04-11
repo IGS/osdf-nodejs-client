@@ -4,12 +4,12 @@
   "description": "A node.js client for the Open Science Data Framework (OSDF)",
   "main": "osdf.js",
   "dependencies": {
-    "async": "3.2.2",
+    "async": "3.2.4",
     "lodash": "4.17.21"
   },
   "devDependencies": {
-    "mocha": "9.1.3",
-    "chai": "4.3.4"
+    "mocha": "10.2.0",
+    "chai": "4.3.7"
   },
   "scripts": {
     "test": "mocha test*.js"
